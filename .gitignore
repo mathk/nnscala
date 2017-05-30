@@ -1,0 +1,4 @@
+.ensime*
+*.sw[opqr]
+target
+.idea
